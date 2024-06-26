@@ -1,6 +1,3 @@
-@pooling-pallet-return/source
-MIT
-
 react
 MIT
 MIT License
